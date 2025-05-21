@@ -1,8 +1,0 @@
-anima = {
-	texture = "gfx/interface/icons/goods_icons/unused/lightbulbs.dds"
-	cost = 30
-	category = luxury
-	
-	prestige_factor = 10
-	tradeable = no
-}
