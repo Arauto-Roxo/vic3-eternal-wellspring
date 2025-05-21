@@ -1,4 +1,0 @@
-anima_harnesser_output_mult = {
-    icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
-    goods_output_anima_mult = 1
-}
